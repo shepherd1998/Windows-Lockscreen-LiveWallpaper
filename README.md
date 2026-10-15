@@ -4,7 +4,11 @@
 
 Windows doesn't let you put a video on the lock screen. VideoLock gets you the same experience anyway: your own video plays full-screen with a lock-screen-style clock, and the moment you touch the mouse or keyboard, Windows locks and takes you straight to the PIN/password box.
 
-> 📸 *Add a screenshot or GIF here:* `![VideoLock in action](screenshot.gif)`
+> 📸 *Add a screenshot or GIF here:* `
+
+https://github.com/user-attachments/assets/b27543d6-e828-4c12-8206-03305112b433
+
+`
 
 ---
 
